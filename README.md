@@ -275,3 +275,5 @@ When you’ll commit that will be reflected in that jira task
 ![image](https://github.com/user-attachments/assets/b48ea305-98eb-4481-b90d-9a256b10c8c5)
 
 Guided by - @LondheShubham153
+Jira MasterClass - TWS : https://www.youtube.com/live/47m6PsfZFo4?si=GyZnnpglj6trvfbd
+
