@@ -169,13 +169,48 @@ summary > assign story point > assignee > select sprint
 Create an account on Slack : Get started > continue with google
 ![image](https://github.com/user-attachments/assets/45f156ff-fb52-4156-b966-b586d3239780)
 
-Quick start > slack > get app > learn more --> Jira is now authenticated to slack
+Quick start > connet tool > slack > connect > " jira cloud for Slack (official)" > learn more > a page will appear > allow --> Jira is now authenticated to slack > Go to slack
+![image](https://github.com/user-attachments/assets/f5fd1171-acfb-44fb-8aa9-0739c364accd)
+Type: /jira create, connect ,ISSUEKEY
 
-Slack Automation → to get a notification on slack whenever there is a change in the board
+In Slack, the /jira create and /jira connect commands are used to interact with Jira directly from Slack. These commands are part of the Jira Cloud for Slack integration, which allows users to manage Jira issues without leaving Slack.
+
+Example /jira create test integration
+![image](https://github.com/user-attachments/assets/cbf6a039-be96-42e6-8b2c-d69cf6d1a29c)
+
+Click on enter then this will pop up
+![image](https://github.com/user-attachments/assets/11925754-d17e-4674-811a-59d35531e8cf)
+
+Now this will be visible in backlog on JIRA
+![image](https://github.com/user-attachments/assets/5523a5e2-ec80-4c77-bd03-e58fd39c8ba4)
+
+
+
+### Slack Automation
+To get a notification on slack whenever there is a change in the board
 Project setting > automation > template 
+Here you can create workflows of automation
+New component > add an action > type “SLACK”
 ![image](https://github.com/user-attachments/assets/11944f7b-2774-4816-8a55-19ffef64d4b6)
 
-Here you can create workflows of automation
+It will ask for webhook URL
+![image](https://github.com/user-attachments/assets/6c1d0bb9-df59-40a3-baac-7bdaf75aa4c5)
+
+
+Webhooks
+On your browser search : Create slack app > https://api.slack.com/apps
+Slack > Create app > from scratch
+![image](https://github.com/user-attachments/assets/8dd87812-0f9a-4b8a-97fe-0dbf565d005b)
+
+Incoming webhooks > activate > on > add new webhooks to workspace
+![image](https://github.com/user-attachments/assets/0280080e-bac8-4989-bddc-5ce50ce0a779)
+
+Create a channel in Slack
+![image](https://github.com/user-attachments/assets/e1e18ef7-7141-4b9e-9e98-3beab7db1ff8)
+
+
+
+
 
 
 # Jira and GitHub Integration
