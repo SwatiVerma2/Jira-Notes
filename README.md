@@ -220,9 +220,19 @@ Incoming webhooks > activate > on > add new webhooks to workspace
 
 ![image](https://github.com/user-attachments/assets/0280080e-bac8-4989-bddc-5ce50ce0a779)
 
-Create a channel in Slack
+Create a channel in Slack : Redirected webhook to this channel
 
 ![image](https://github.com/user-attachments/assets/e1e18ef7-7141-4b9e-9e98-3beab7db1ff8)
+
+Copy webhook and paste > write a message > turn on rule 
+
+Make a transition on board and you will receive a notification on slack
+
+![image](https://github.com/user-attachments/assets/2395e2dc-5289-4fef-8d2e-fddf7d8a6146)
+
+![image](https://github.com/user-attachments/assets/26b0e0e7-3ed4-4479-b4de-2de4024b3a0a)
+
+
 
 
 
