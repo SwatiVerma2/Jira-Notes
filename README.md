@@ -77,10 +77,10 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    - Definition: A sprint is a fixed-duration period, usually ranging from 1 to 4 weeks, during which a specific set of tasks must be completed and prepared for        review.
    - Purpose: Sprints enable teams to divide their work into manageable segments and consistently deliver increments of value.
    - Process:
-      Sprint Planning: Determine what can be accomplished during the sprint and outline the approach to achieve it.
-      Daily Standups: Brief meetings to discuss progress and any obstacles encountered.
-      Sprint Review: At the sprint's conclusion, evaluate what has been achieved.
-      Sprint Retrospective: Reflect on the sprint to identify areas for improvement.
+     1. Sprint Planning: Determine what can be accomplished during the sprint and outline the approach to achieve it.
+   2. Daily Standups: Brief meetings to discuss progress and any obstacles encountered.
+   3. Sprint Review: At the sprint's conclusion, evaluate what has been achieved.
+   4. Sprint Retrospective: Reflect on the sprint to identify areas for improvement.
 
 2. Epic:
    - An Epic is a large body of work that can be broken down into smaller tasks or stories.
