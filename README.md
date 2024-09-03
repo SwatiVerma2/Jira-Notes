@@ -72,7 +72,7 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
 5. **Integration**: Jira integrates with a wide range of other tools and services, including [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Slack](https://slack.com/), and more.
 6. **Permissions and Security**: Jira provides robust permission schemes to control access to projects, issues, and other resources.
 
-## Keywords
+### Keywords
 1. Sprint:
    - Definition: A sprint is a fixed-duration period, usually ranging from 1 to 4 weeks, during which a specific set of tasks must be completed and prepared for        review.
    - Purpose: Sprints enable teams to divide their work into manageable segments and consistently deliver increments of value.
@@ -174,6 +174,23 @@ network
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
 
 # Jira and Slack Integration
+
+## What is Slack?
+- Slack is a popular collaboration and communication platform designed for teams to communicate, share files, and manage projects more effectively. 
+- It serves as a central hub where team members can collaborate in real-time, organize conversations, and integrate with various tools and services.
+
+### Key Features of Slack
+1. Channels: Organize conversations by topic, project, or team.
+2. Direct Messaging: Send private messages to individuals or small groups.
+3. File Sharing: Share documents, images, and files directly within channels or messages.
+4. Search: Quickly find messages, files, and channels with powerful search capabilities.
+5. Mentions & Notifications: Get notified when someone mentions you or important updates occur.
+6. Threaded Conversations: Keep side discussions organized without cluttering the main channel.
+7. Video and Voice Calls: Start video or voice calls directly from Slack.
+8. Custom Emojis: Create and use custom emojis to personalize communication.
+9. Workflow Automation: Automate tasks and processes with Slack's workflow builder.
+10. Integrations: Connect with hundreds of apps like Google Drive, Jira, and GitHub.
+
 
 Create an account on Slack : Get started > continue with google
 
