@@ -149,6 +149,7 @@ network
 Create an account on Jira > choose template as scrum 
 
 ### Create a sprint
+
 ![image](https://github.com/user-attachments/assets/a75493c1-c0e0-4c3f-b5e9-a30b80e4aa77)
 
 ### Create Story
@@ -157,47 +158,59 @@ summary > assign story point > assignee > select sprint
 ![image](https://github.com/user-attachments/assets/f5c6ddd8-a775-435c-99be-4d8a0cf68bdd)
 
 ### Adding Members
+
 ![image](https://github.com/user-attachments/assets/423234e4-9be2-46c8-87e9-acf4b9e76c14)
 
 ### Assigning Tasks
+
 ![image](https://github.com/user-attachments/assets/5eb9be8b-98b6-4802-a3c5-3c0bb9043402)
 
 ### Starting a sprint
+
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
 
 # Jira and Slack Integration
 Create an account on Slack : Get started > continue with google
+
 ![image](https://github.com/user-attachments/assets/45f156ff-fb52-4156-b966-b586d3239780)
 
 Quick start > connet tool > slack > connect > " jira cloud for Slack (official)" > learn more > a page will appear > allow --> Jira is now authenticated to slack > Go to slack
+
 ![image](https://github.com/user-attachments/assets/f5fd1171-acfb-44fb-8aa9-0739c364accd)
+
 Type: /jira create, connect ,ISSUEKEY
 
 In Slack, the /jira create and /jira connect commands are used to interact with Jira directly from Slack. These commands are part of the Jira Cloud for Slack integration, which allows users to manage Jira issues without leaving Slack.
 
 Example /jira create test integration
+
 ![image](https://github.com/user-attachments/assets/cbf6a039-be96-42e6-8b2c-d69cf6d1a29c)
 
 Click on enter then this will pop up
+
 ![image](https://github.com/user-attachments/assets/11925754-d17e-4674-811a-59d35531e8cf)
 
 Now this will be visible in backlog on JIRA
+
 ![image](https://github.com/user-attachments/assets/5523a5e2-ec80-4c77-bd03-e58fd39c8ba4)
 
 
 
 ### Slack Automation
+
 To get a notification on slack whenever there is a change in the board
 Project setting > automation > template 
 Here you can create workflows of automation
 New component > add an action > type “SLACK”
+
 ![image](https://github.com/user-attachments/assets/11944f7b-2774-4816-8a55-19ffef64d4b6)
 
 It will ask for webhook URL
+
 ![image](https://github.com/user-attachments/assets/6c1d0bb9-df59-40a3-baac-7bdaf75aa4c5)
 
 
-Webhooks
+### Webhooks
 On your browser search : Create slack app > https://api.slack.com/apps
 Slack > Create app > from scratch
 
