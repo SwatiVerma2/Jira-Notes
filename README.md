@@ -1,3 +1,15 @@
+# SDLC
+The Software Development Life Cycle (SDLC) is a structured process used by software development teams to design, develop, test, and deploy software applications. It provides a systematic approach to software development, ensuring that the final product meets the requirements and is of high quality. 
+
+## SDLC Models 
+There are several models of SDLC, each with its own approach to managing the phases of software development.
+1. Waterfall Model: A linear and sequential approach where each phase must be completed before the next begins.
+2. V-Model: An extension of the Waterfall Model that emphasizes validation and verification at each stage.
+3. Iterative Model: Develops the system through repeated cycles, allowing for incremental improvements.
+4. Spiral Model: Combines iterative development with risk management, focusing on early identification and mitigation of risks.
+5. Agile Model: Emphasizes iterative development, collaboration, and flexibility for rapid delivery of functional software.
+6. DevOps Model: Integrates development and operations to improve collaboration and automate the deployment process.
+   
 # What is Agile?
 - Agile is a project management and software development approach that aims to be more effective.
 - Agile means move quickly.
@@ -36,6 +48,17 @@
 1. Backlog: The Product Backlog is a prioritized list of work for the entire project, while the Sprint Backlog is a list of work for a specific sprint.
 2. Sprint: A fixed-length period during which the team works to complete a set of tasks from the Sprint Backlog.
 3. Daily Scrum: A daily meeting to synchronize team efforts and plan the next 24 hours.
+
+### Advantages
+· Freedom & Adaption
+· High-quality, low-risk product.
+· Reduce the development time up to 40%
+· Scrum customer satisfaction is very important.
+· Reviewing the current sprint before moving to new one.
+
+### Disadvantages
+· More efficient for small team size.
+· No changes in the sprint.
 
 # Jira
 Jira is a popular project management and issue tracking tool developed by [Atlassian](https://www.atlassian.com/). It is widely used by software development teams to plan, track, and manage software projects. Here are some key features and functionalities of Jira:
