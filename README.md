@@ -127,6 +127,15 @@ install docker on system
 Docker file
 Docker compose
 network
+# Practical
+Create an account on Jira > choose template as scrum
+
+Create a sprint
+![image](https://github.com/user-attachments/assets/a75493c1-c0e0-4c3f-b5e9-a30b80e4aa77)
+
+Create Story: summary > assign story point > assignee > select sprint
+![image](https://github.com/user-attachments/assets/f5c6ddd8-a775-435c-99be-4d8a0cf68bdd)
+
 ![image](https://github.com/user-attachments/assets/5f6d9790-3e33-4a10-97a8-8337cd12270d)
 
 ### Adding Members and 
@@ -136,6 +145,6 @@ network
 ![image](https://github.com/user-attachments/assets/5eb9be8b-98b6-4802-a3c5-3c0bb9043402)
 
 
-
+## Starting a sprint
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
