@@ -71,6 +71,53 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
 5. **Integration**: Jira integrates with a wide range of other tools and services, including [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Slack](https://slack.com/), and more.
 6. **Permissions and Security**: Jira provides robust permission schemes to control access to projects, issues, and other resources.
 
+## Keywords
+1. Sprint:
+   - Definition: A sprint is a fixed-duration period, usually ranging from 1 to 4 weeks, during which a specific set of tasks must be completed and prepared for review.
+   - Purpose: Sprints enable teams to divide their work into manageable segments and consistently deliver increments of value.
+   - Process:
+   Sprint Planning: Determine what can be accomplished during the sprint and outline the approach to achieve it.
+   Daily Standups: Brief meetings to discuss progress and any obstacles encountered.
+   Sprint Review: At the sprint's conclusion, evaluate what has been achieved.
+   Sprint Retrospective: Reflect on the sprint to identify areas for improvement.
+
+2. Epic:
+   An Epic is a large body of work that can be broken down into smaller tasks or stories.
+   It represents a significant feature or initiative that spans multiple sprints.
+   Epics help in organizing and tracking progress on larger projects or features.
+
+4. Story:
+   It represents a single piece of work that needs to be completed within a sprint.
+   It is a user-centric requirement or feature that delivers value to the end user.
+   Stories are often written in the format of "As a [type of user], I want [an action] so that [a benefit/a value]."
+   
+6. Story Points:
+   Story Points are a unit of measure used to estimate the effort required to complete a story. Instead of measuring in hours or days, story points take into account the complexity, risks, and effort involved. 
+   Teams assign story points during planning sessions to help gauge the workload for a sprint.
+   
+   Assignment of story points:
+   - Relative Estimation Story points are assigned by comparing stories to each other. This method helps in understanding the relative effort required for each task.
+   - Common Scale A popular scale for story points is the Fibonacci sequence (1, 2, 3, 5, 8, 13, etc.).
+   - Example
+   A straightforward task might be assigned 1 point.
+   A moderately complex task could be assigned 5 points.
+   A highly complex task might be assigned 13 points.
+
+4. Tasks:
+   A Task in Jira is a type of issue that represents a piece of work that needs to be done.
+   Tasks are typically smaller and more granular than stories and can be used for various purposes, such as technical work, research, or administrative activities.
+   Tasks can also be part of a story or an epic.
+5. Board:
+   A Board is a visual representation of your project’s workflow.
+   It helps teams manage and track the progress of their work.
+   Boards can be configured to follow different methodologies, such as Scrum  or Kanban.
+   
+   Columns on the Board: To Do, In Progress, In Review, Done
+   - To Do: This column contains tasks or stories that have been identified but not yet started. It represents the backlog of work that needs to be done.
+   - In Progress: This column contains tasks or stories that are currently being worked on. It indicates that the work has started but is not yet complete.
+   - In Review: This column is used for tasks or stories that have been completed but are awaiting review or approval. This could include code reviews, testing, or stakeholder approval.
+   - Done: This column contains tasks or stories that have been completed and approved. It indicates that the work is finished and no further action is required.
+     ![image](https://github.com/user-attachments/assets/92093fa8-8b75-48b9-9dee-909f2b64fba2)
 
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
