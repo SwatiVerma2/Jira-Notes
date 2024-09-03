@@ -129,5 +129,13 @@ Docker compose
 network
 ![image](https://github.com/user-attachments/assets/5f6d9790-3e33-4a10-97a8-8337cd12270d)
 
+### Adding Members and 
+![image](https://github.com/user-attachments/assets/423234e4-9be2-46c8-87e9-acf4b9e76c14)
+
+### Assigning Tasks
+![image](https://github.com/user-attachments/assets/5eb9be8b-98b6-4802-a3c5-3c0bb9043402)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
