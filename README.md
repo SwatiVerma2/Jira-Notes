@@ -11,23 +11,31 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
 Jira is highly configurable and can be tailored to fit the needs of different teams and projects, making it a versatile tool for project management and issue tracking. 
 
 # What is Agile?
-Agile is a project management and software development approach that aims to be more effective.
+- Agile is a project management and software development approach that aims to be more effective.
+- Agile means move quickly.
+- It focuses on delivering smaller pieces of work regularly instead of one big launch.
+- This allows teams to adapt to changes quickly and provide customer value faster.
+- Agile is not just a methodology; it’s a mindset. Agile isn’t about following specific rituals or techniques. Instead, it’s a bunch of methods that show a dedication to quick feedback and always getting better.
+- Everyone in the team works on the same level there is no hierarchy.
+- They prioritize flexibility, collaboration, and customer satisfaction.
+- Major companies like Facebook, Google, and Amazon use Agile because of its adaptability and customer-focused approach.
 
-It focuses on delivering smaller pieces of work regularly instead of one big launch.
-This allows teams to adapt to changes quickly and provide customer value faster.
-Agile is not just a methodology; it’s a mindset. Agile isn’t about following specific rituals or techniques. Instead, it’s a bunch of methods that show a dedication to quick feedback and always getting better.
+### Advantages
+1. Frequent delivery
+2. Face to face communication with the client.
+3. Frequent changes
+4. Less time is required
 
-## What is the Agile Methodology?
-Agile methodologies are iterative and incremental, which means it’s known for breaking a project into smaller parts and adjusting to changing requirements.
+### Disadvantages
+1. Less documentation
+2. Maintainance problem
 
-They prioritize flexibility, collaboration, and customer satisfaction.
-Major companies like Facebook, Google, and Amazon use Agile because of its adaptability and customer-focused approach.
-
-## Popular Agile Frameworks
+### Popular Agile Frameworks
 - Scrum: Focuses on fixed-length iterations called sprints, with specific roles (Scrum Master, Product Owner, Development Team) and ceremonies (Sprint Planning, Daily Stand-Up, Sprint Review, Sprint Retrospective).
 - Kanban: Uses a visual board to manage work in progress and optimize flow. It emphasizes continuous delivery without fixed-length iterations.
 - Extreme Programming (XP): Focuses on technical practices like pair programming, test-driven development, and continuous integration to improve software quality.
 
-## 
+## SCRUM
+
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
