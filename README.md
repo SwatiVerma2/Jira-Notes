@@ -170,6 +170,7 @@ summary > assign story point > assignee > select sprint
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
 
 # Jira and Slack Integration
+
 Create an account on Slack : Get started > continue with google
 
 ![image](https://github.com/user-attachments/assets/45f156ff-fb52-4156-b966-b586d3239780)
@@ -211,6 +212,8 @@ It will ask for webhook URL
 
 
 ### Webhooks
+A webhook is a method used by web applications to send real-time data from one application to another whenever a specific event occurs. Instead of continuously polling for data, a webhook automatically triggers and sends the data to a specified URL as soon as the event happens.
+
 On your browser search : Create slack app > https://api.slack.com/apps
 Slack > Create app > from scratch
 
@@ -233,10 +236,18 @@ Make a transition on board and you will receive a notification on slack
 ![image](https://github.com/user-attachments/assets/26b0e0e7-3ed4-4479-b4de-2de4024b3a0a)
 
 
-
-
-
-
-
-
 # Jira and GitHub Integration
+Jira > apps > explore more apps > github > get app > get it now > get started > continue > github cloud > install
+It is needed because if any updates are made on github that will be automatically updated on Jira
+
+![image](https://github.com/user-attachments/assets/be8798f3-643c-4ca5-ac1b-c00260ee247a)
+
+Create a repo > create a sample file > while committing type ticket ID Eg #SCRUM-4
+
+![image](https://github.com/user-attachments/assets/1161dd8a-0704-42ea-9f55-446eb6e5fcd8)
+
+When you’ll commit that will be reflected in that jira task
+
+![image](https://github.com/user-attachments/assets/04528cb6-f56f-4009-a640-8dd0b4f6282a)
+
+
