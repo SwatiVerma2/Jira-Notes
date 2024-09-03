@@ -119,5 +119,15 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    - Done: This column contains tasks or stories that have been completed and approved. It indicates that the work is finished and no further action is required.
      ![image](https://github.com/user-attachments/assets/92093fa8-8b75-48b9-9dee-909f2b64fba2)
 
+Example
+Epic → big goal [Learn Docker]
+Story → as a devops learner i  should learn docker
+Task → task needed to achieve goal
+install docker on system
+Docker file
+Docker compose
+network
+![image](https://github.com/user-attachments/assets/5f6d9790-3e33-4a10-97a8-8337cd12270d)
+
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
