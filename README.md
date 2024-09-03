@@ -175,12 +175,30 @@ network
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
 
-# Jira and Slack Integration
-
+# Slack
 
 ## What is Slack?
 - Slack is a popular collaboration and communication platform designed for teams to communicate, share files, and manage projects more effectively. 
 - It serves as a central hub where team members can collaborate in real-time, organize conversations, and integrate with various tools and services.
+
+![image](https://github.com/user-attachments/assets/2562179c-4e17-46dd-b1ef-ffb3ab35b121)
+
+### Different Sections in Slack 
+1. Apps: The Apps section of Slack is where you can find, install, and manage integrations that enhance your Slack workspace. These apps connect Slack with other tools and services you use, allowing you to bring different aspects of your work directly into Slack.
+2. Channel: A shared space where a group of people can communicate and collaborate around a specific topic or project.
+3. Threads:  A focused, organized discussion tied to a specific message in a channel or DM. Use threads to keep discussions on a specific message organized without cluttering the main conversation flow in a channel.
+4. DM: A private, one-on-one or small group conversation between users in Slack.
+   
+- More section
+  ![image](https://github.com/user-attachments/assets/fb5d198a-0166-430c-ac98-7ad5bc7f1ddf)
+
+1. Huddles: Quick, impromptu audio conversations in Slack for real-time collaboration.
+2. Automations: Streamline repetitive tasks using workflows, bots, and app integrations within Slack. Eg Automating onboarding processes for new team members.Setting up reminders for recurring tasks.
+3. Canvases: Slack Canvases (often referred to as Slack Canvas) are collaborative spaces within Slack where teams can organize, share, and edit content in a flexible, document-like format.
+   Features:
+   - Canvases can include text, images, files, and other Slack-integrated tools.
+   - They support real-time collaboration, allowing multiple team members to contribute simultaneously.
+   - Canvases are typically linked to specific channels or DMs, providing context and keeping relevant information in one place.
 
 ### Key Features of Slack
 1. Channels: Organize conversations by topic, project, or team.
@@ -194,6 +212,8 @@ network
 9. Workflow Automation: Automate tasks and processes with Slack's workflow builder.
 10. Integrations: Connect with hundreds of apps like Google Drive, Jira, and GitHub.
 
+
+# Jira and Slack Integration
 
 Create an account on Slack : Get started > continue with google
 
