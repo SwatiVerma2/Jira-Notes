@@ -50,15 +50,16 @@ There are several models of SDLC, each with its own approach to managing the pha
 3. Daily Scrum: A daily meeting to synchronize team efforts and plan the next 24 hours.
 
 ### Advantages
-· Freedom & Adaption
-· High-quality, low-risk product.
-· Reduce the development time up to 40%
-· Scrum customer satisfaction is very important.
-· Reviewing the current sprint before moving to new one.
+1. Freedom & Adaption
+2. High-quality, low-risk product.
+3. Reduce the development time up to 40%
+4. Scrum customer satisfaction is very important.
+5. Reviewing the current sprint before moving to new one.
+
 
 ### Disadvantages
-· More efficient for small team size.
-· No changes in the sprint.
+1. More efficient for small team size.
+2. No changes in the sprint.
 
 # Jira
 Jira is a popular project management and issue tracking tool developed by [Atlassian](https://www.atlassian.com/). It is widely used by software development teams to plan, track, and manage software projects. Here are some key features and functionalities of Jira:
