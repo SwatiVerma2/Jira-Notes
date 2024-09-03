@@ -242,9 +242,10 @@ It is needed because if any updates are made on github that will be automaticall
 
 ![image](https://github.com/user-attachments/assets/be8798f3-643c-4ca5-ac1b-c00260ee247a)
 
-Create a repo > create a sample file > while committing type ticket ID Eg #SCRUM-4
+Create a repo > create a sample file > while committing type ticket ID Eg Create #SCRUM-6
 
-![image](https://github.com/user-attachments/assets/1161dd8a-0704-42ea-9f55-446eb6e5fcd8)
+![image](https://github.com/user-attachments/assets/50848f61-e7cc-4b03-b18e-d4e2c4fe7465)
+
 
 When you’ll commit that will be reflected in that jira task
 
