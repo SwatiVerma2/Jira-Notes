@@ -82,18 +82,19 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    Sprint Retrospective: Reflect on the sprint to identify areas for improvement.
 
 2. Epic:
-   An Epic is a large body of work that can be broken down into smaller tasks or stories.
-   It represents a significant feature or initiative that spans multiple sprints.
-   Epics help in organizing and tracking progress on larger projects or features.
+   - An Epic is a large body of work that can be broken down into smaller tasks or stories.
+   - It represents a significant feature or initiative that spans multiple sprints.
+   - Epics help in organizing and tracking progress on larger projects or features.
 
-4. Story:
-   It represents a single piece of work that needs to be completed within a sprint.
-   It is a user-centric requirement or feature that delivers value to the end user.
-   Stories are often written in the format of "As a [type of user], I want [an action] so that [a benefit/a value]."
+3. Story:
+   - It represents a single piece of work that needs to be completed within a sprint.
+   - It is a user-centric requirement or feature that delivers value to the end user.
+   - Stories are often written in the format of "As a [type of user], I want [an action] so that [a benefit/a value]."
    
-6. Story Points:
-   Story Points are a unit of measure used to estimate the effort required to complete a story. Instead of measuring in hours or days, story points take into account the complexity, risks, and effort involved. 
-   Teams assign story points during planning sessions to help gauge the workload for a sprint.
+4. Story Points:
+   - Story Points are a unit of measure used to estimate the effort required to complete a story.
+   - Instead of measuring in hours or days, story points take into account the complexity, risks, and effort involved. 
+   - Teams assign story points during planning sessions to help gauge the workload for a sprint.
    
    Assignment of story points:
    - Relative Estimation Story points are assigned by comparing stories to each other. This method helps in understanding the relative effort required for each task.
@@ -103,14 +104,15 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    A moderately complex task could be assigned 5 points.
    A highly complex task might be assigned 13 points.
 
-4. Tasks:
-   A Task in Jira is a type of issue that represents a piece of work that needs to be done.
-   Tasks are typically smaller and more granular than stories and can be used for various purposes, such as technical work, research, or administrative activities.
-   Tasks can also be part of a story or an epic.
-5. Board:
-   A Board is a visual representation of your project’s workflow.
-   It helps teams manage and track the progress of their work.
-   Boards can be configured to follow different methodologies, such as Scrum  or Kanban.
+6. Tasks:
+   - A Task in Jira is a type of issue that represents a piece of work that needs to be done.
+   - Tasks are typically smaller and more granular than stories and can be used for various purposes, such as technical work, research, or administrative activities.
+   - Tasks can also be part of a story or an epic.
+   
+7. Board:
+   - A Board is a visual representation of your project’s workflow.
+   - It helps teams manage and track the progress of their work.
+  -  Boards can be configured to follow different methodologies, such as Scrum  or Kanban.
    
    Columns on the Board: To Do, In Progress, In Review, Done
    - To Do: This column contains tasks or stories that have been identified but not yet started. It represents the backlog of work that needs to be done.
@@ -119,6 +121,21 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    - Done: This column contains tasks or stories that have been completed and approved. It indicates that the work is finished and no further action is required.
      ![image](https://github.com/user-attachments/assets/92093fa8-8b75-48b9-9dee-909f2b64fba2)
 
+8. Issue:
+   An Issue is a generic term that refers to any task, bug, feature request, or any other type of work item that needs to be tracked and managed.
+   Issues are the fundamental units of work in Jira and can be categorized into different types, such as:
+   - Story: A user-centric requirement or feature.
+   - Bug: A problem or error in the software that needs to be fixed.
+   - Task: A piece of work that needs to be done, often more granular than a story.
+   - Epic: A large body of work that can be broken down into smaller tasks or stories.
+   - Sub-task: A smaller piece of work that is part of a larger issue.
+     Each issue has various attributes, such as a summary, description, priority, status, assignee, and more, which help in tracking and managing the work.
+
+9. Ticket:
+   A ticket is essentially an issue that is created to track a specific request or problem reported by a user or customer. Tickets are commonly used in Jira Service Management  (formerly Jira Service Desk),         where they represent customer support requests, incidents, or service requests.
+
+  Key Difference: The term "issue" is more general and can refer to any type of work item in Jira, while "ticket" is more specific to support or service requests.
+  
 Example
 Epic → big goal [Learn Docker]
 Story → as a devops learner i  should learn docker
@@ -127,24 +144,38 @@ install docker on system
 Docker file
 Docker compose
 network
-# Practical
-Create an account on Jira > choose template as scrum
 
-Create a sprint
+# Practical
+Create an account on Jira > choose template as scrum 
+
+### Create a sprint
 ![image](https://github.com/user-attachments/assets/a75493c1-c0e0-4c3f-b5e9-a30b80e4aa77)
 
-Create Story: summary > assign story point > assignee > select sprint
+### Create Story
+summary > assign story point > assignee > select sprint
+
 ![image](https://github.com/user-attachments/assets/f5c6ddd8-a775-435c-99be-4d8a0cf68bdd)
 
-![image](https://github.com/user-attachments/assets/5f6d9790-3e33-4a10-97a8-8337cd12270d)
-
-### Adding Members and 
+### Adding Members
 ![image](https://github.com/user-attachments/assets/423234e4-9be2-46c8-87e9-acf4b9e76c14)
 
 ### Assigning Tasks
 ![image](https://github.com/user-attachments/assets/5eb9be8b-98b6-4802-a3c5-3c0bb9043402)
 
-
-## Starting a sprint
-
+### Starting a sprint
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
+
+# Jira and Slack Integration
+Create an account on Slack : Get started > continue with google
+![image](https://github.com/user-attachments/assets/45f156ff-fb52-4156-b966-b586d3239780)
+
+Quick start > slack > get app > learn more --> Jira is now authenticated to slack
+
+Slack Automation → to get a notification on slack whenever there is a change in the board
+Project setting > automation > template 
+![image](https://github.com/user-attachments/assets/11944f7b-2774-4816-8a55-19ffef64d4b6)
+
+Here you can create workflows of automation
+
+
+# Jira and GitHub Integration
