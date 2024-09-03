@@ -248,6 +248,8 @@ Create a repo > create a sample file > while committing type ticket ID Eg #SCRUM
 
 When you’ll commit that will be reflected in that jira task
 
-![image](https://github.com/user-attachments/assets/04528cb6-f56f-4009-a640-8dd0b4f6282a)
+![image](https://github.com/user-attachments/assets/b48ea305-98eb-4481-b90d-9a256b10c8c5)
+
+
 
 
