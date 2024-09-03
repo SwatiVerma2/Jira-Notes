@@ -120,6 +120,7 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
    - In Progress: This column contains tasks or stories that are currently being worked on. It indicates that the work has started but is not yet complete.
    - In Review: This column is used for tasks or stories that have been completed but are awaiting review or approval. This could include code reviews, testing,        or stakeholder approval.
    - Done: This column contains tasks or stories that have been completed and approved. It indicates that the work is finished and no further action is required.
+     
      ![image](https://github.com/user-attachments/assets/92093fa8-8b75-48b9-9dee-909f2b64fba2)
 
 8. Issue:
@@ -133,7 +134,8 @@ Jira is a popular project management and issue tracking tool developed by [Atlas
      Each issue has various attributes, such as a summary, description, priority, status, assignee, and more, which help in tracking and managing the work.
 
 9. Ticket:
-   A ticket is essentially an issue that is created to track a specific request or problem reported by a user or customer. Tickets are commonly used in Jira          Service Management  (formerly Jira Service Desk), where they represent customer support requests, incidents, or service requests.
+   A ticket is essentially an issue that is created to track a specific request or problem reported by a user or customer. Tickets are commonly used in Jira Service Management  (formerly Jira Service Desk), 
+   where they represent customer support requests, incidents, or service requests.
 
    Key Difference: The term "issue" is more general and can refer to any type of work item in Jira, while "ticket" is more specific to support or service          
    requests.
@@ -174,6 +176,7 @@ network
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
 
 # Jira and Slack Integration
+
 
 ## What is Slack?
 - Slack is a popular collaboration and communication platform designed for teams to communicate, share files, and manage projects more effectively. 
@@ -267,11 +270,6 @@ Create a repo > create a sample file > while committing type ticket ID Eg Create
 
 ![image](https://github.com/user-attachments/assets/50848f61-e7cc-4b03-b18e-d4e2c4fe7465)
 
-
 When you’ll commit that will be reflected in that jira task
 
 ![image](https://github.com/user-attachments/assets/b48ea305-98eb-4481-b90d-9a256b10c8c5)
-
-
-
-
