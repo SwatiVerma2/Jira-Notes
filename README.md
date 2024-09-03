@@ -36,6 +36,20 @@ Jira is highly configurable and can be tailored to fit the needs of different te
 - Extreme Programming (XP): Focuses on technical practices like pair programming, test-driven development, and continuous integration to improve software quality.
 
 ## SCRUM
+- One of the most popular agile methodology.
+- It is a lightweight, iterative and incremental framework.
+- It breaks down the development phases into stages called "Sprints".
+
+### Key Roles
+1. Product Owner: Responsible for defining the features of the product and prioritizing the backlog. The Product Owner represents the stakeholders and ensures that the team is working on the most valuable tasks.
+2. Scrum Master: Facilitates the Scrum process and ensures that the team adheres to Scrum practices and principles. The Scrum Master helps remove any impediments that the team might face.
+3. Development Team: A cross-functional group of professionals who do the actual work of developing the product. The team is self-organizing and decides how to accomplish the tasks in the backlog.
+
+### Keywords
+1. Backlog: The Product Backlog is a prioritized list of work for the entire project, while the Sprint Backlog is a list of work for a specific sprint.
+2. Sprint: A fixed-length period during which the team works to complete a set of tasks from the Sprint Backlog.
+3. Daily Scrum: A daily meeting to synchronize team efforts and plan the next 24 hours.
+
 
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
