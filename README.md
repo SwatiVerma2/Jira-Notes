@@ -200,12 +200,15 @@ It will ask for webhook URL
 Webhooks
 On your browser search : Create slack app > https://api.slack.com/apps
 Slack > Create app > from scratch
+
 ![image](https://github.com/user-attachments/assets/8dd87812-0f9a-4b8a-97fe-0dbf565d005b)
 
 Incoming webhooks > activate > on > add new webhooks to workspace
+
 ![image](https://github.com/user-attachments/assets/0280080e-bac8-4989-bddc-5ce50ce0a779)
 
 Create a channel in Slack
+
 ![image](https://github.com/user-attachments/assets/e1e18ef7-7141-4b9e-9e98-3beab7db1ff8)
 
 
