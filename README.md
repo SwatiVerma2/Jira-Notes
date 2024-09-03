@@ -23,5 +23,11 @@ Agile methodologies are iterative and incremental, which means it’s known for 
 They prioritize flexibility, collaboration, and customer satisfaction.
 Major companies like Facebook, Google, and Amazon use Agile because of its adaptability and customer-focused approach.
 
+## Popular Agile Frameworks
+- Scrum: Focuses on fixed-length iterations called sprints, with specific roles (Scrum Master, Product Owner, Development Team) and ceremonies (Sprint Planning, Daily Stand-Up, Sprint Review, Sprint Retrospective).
+- Kanban: Uses a visual board to manage work in progress and optimize flow. It emphasizes continuous delivery without fixed-length iterations.
+- Extreme Programming (XP): Focuses on technical practices like pair programming, test-driven development, and continuous integration to improve software quality.
+
+## 
 
 ![image](https://github.com/user-attachments/assets/61a1cd27-03ca-4902-ab37-8d56674fa8bc)
