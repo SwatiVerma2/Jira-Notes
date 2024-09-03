@@ -1,15 +1,3 @@
-# Jira
-Jira is a popular project management and issue tracking tool developed by [Atlassian](https://www.atlassian.com/). It is widely used by software development teams to plan, track, and manage software projects. Here are some key features and functionalities of Jira:
-
-1. **Issue Tracking**: Jira allows teams to create, update, and track issues (tasks, bugs, user stories, etc.) throughout the project lifecycle.
-2. **Agile Project Management**: Jira supports agile methodologies such as Scrum and Kanban. It provides boards, backlogs, sprints, and other tools to help teams manage their agile workflows.
-3. **Custom Workflows**: Teams can define custom workflows to match their specific processes, including custom issue types, statuses, and transitions.
-4. **Reporting and Analytics**: Jira offers various reports and dashboards to help teams monitor progress, identify bottlenecks, and make data-driven decisions.
-5. **Integration**: Jira integrates with a wide range of other tools and services, including [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Slack](https://slack.com/), and more.
-6. **Permissions and Security**: Jira provides robust permission schemes to control access to projects, issues, and other resources.
-
-Jira is highly configurable and can be tailored to fit the needs of different teams and projects, making it a versatile tool for project management and issue tracking. 
-
 # What is Agile?
 - Agile is a project management and software development approach that aims to be more effective.
 - Agile means move quickly.
@@ -31,9 +19,8 @@ Jira is highly configurable and can be tailored to fit the needs of different te
 2. Maintainance problem
 
 ### Popular Agile Frameworks
-- Scrum: Focuses on fixed-length iterations called sprints, with specific roles (Scrum Master, Product Owner, Development Team) and ceremonies (Sprint Planning, Daily Stand-Up, Sprint Review, Sprint Retrospective).
+- Scrum: Focuses on fixed-length iterations called sprints.
 - Kanban: Uses a visual board to manage work in progress and optimize flow. It emphasizes continuous delivery without fixed-length iterations.
-- Extreme Programming (XP): Focuses on technical practices like pair programming, test-driven development, and continuous integration to improve software quality.
 
 ## SCRUM
 - One of the most popular agile methodology.
@@ -49,6 +36,16 @@ Jira is highly configurable and can be tailored to fit the needs of different te
 1. Backlog: The Product Backlog is a prioritized list of work for the entire project, while the Sprint Backlog is a list of work for a specific sprint.
 2. Sprint: A fixed-length period during which the team works to complete a set of tasks from the Sprint Backlog.
 3. Daily Scrum: A daily meeting to synchronize team efforts and plan the next 24 hours.
+
+# Jira
+Jira is a popular project management and issue tracking tool developed by [Atlassian](https://www.atlassian.com/). It is widely used by software development teams to plan, track, and manage software projects. Here are some key features and functionalities of Jira:
+
+1. **Issue Tracking**: Jira allows teams to create, update, and track issues (tasks, bugs, user stories, etc.) throughout the project lifecycle.
+2. **Agile Project Management**: Jira supports agile methodologies such as Scrum and Kanban. It provides boards, backlogs, sprints, and other tools to help teams manage their agile workflows.
+3. **Custom Workflows**: Teams can define custom workflows to match their specific processes, including custom issue types, statuses, and transitions.
+4. **Reporting and Analytics**: Jira offers various reports and dashboards to help teams monitor progress, identify bottlenecks, and make data-driven decisions.
+5. **Integration**: Jira integrates with a wide range of other tools and services, including [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Slack](https://slack.com/), and more.
+6. **Permissions and Security**: Jira provides robust permission schemes to control access to projects, issues, and other resources.
 
 
 
