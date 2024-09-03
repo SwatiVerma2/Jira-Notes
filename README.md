@@ -17,7 +17,7 @@ There are several models of SDLC, each with its own approach to managing the pha
 - This allows teams to adapt to changes quickly and provide customer value faster.
 - Agile is not just a methodology; it’s a mindset. Agile isn’t about following specific rituals or techniques. Instead, it’s a bunch of methods that show a 
   dedication to quick feedback and always getting better.
-- Everyone in the team works on the same level there is no hierarchy.
+- Everyone in the team works at the same level, there is no hierarchy.
 - They prioritize flexibility, collaboration, and customer satisfaction.
 - Major companies like Facebook, Google, and Amazon use Agile because of its adaptability and customer-focused approach.
 
